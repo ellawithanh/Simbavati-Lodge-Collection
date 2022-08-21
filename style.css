@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* CSS Document */
+
+table {width: 640px;}
+
+.logo-column {padding: 0px 20px 0px 0px;
+      color: #8d9087;
+      font-size: 12px;
+      line-height: normal;
+      font-family: 'Mulish', sans-serif !important;
+      text-align: center;
+      font-weight: 600;
+      letter-spacing: 1.2px;
+      text-decoration: none !important;
+      width: 200px;
+      vertical-align: middle;
+
+    }
+
+.logo {width: 180px;
+       padding: 15px 0px 20px 0px;
+      
+      }
+
+.website {text-decoration: none !important;
+    color: #8d9087 !important;
+    font-size: 13px;
+    line-height: normal;
+    font-family: 'Mulish', sans-serif !important;
+    text-align: center;
+    font-weight: 600;
+    }
+
+.color-stroke {border-left: 13px #8d9087 solid;
+               width: 13px;
+}
+
+.details {padding: 0px 0px 0px 20px;
+    font-size: 12px;
+    line-height: 20px;
+    font-family: 'Mulish', sans-serif;
+    text-align: left;
+    letter-spacing: 1.2px;
+    width: 320px;
+}
+
